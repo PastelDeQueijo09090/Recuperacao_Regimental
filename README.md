@@ -16,10 +16,12 @@
 
 
 </head>
-<body>
+<body background="imagens/det6jnm-70a92221-8d6b-43c5-8487-3c29336b89fd.png">
 
-    <h1>Efeitos Sonoros</h1>
-    <h2>Demon Slayer</h2>
+    
+    <h1>Efeitos Sonoros:</h1>
+    <img src="imagens/Demon-Slayer-Emblem.png">
+    
 
     <section class="teclado">
         <button class="tecla tecla_omai"><img src="imagens/rengoku.jpg" alt="omai"></button>
