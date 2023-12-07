@@ -37,17 +37,17 @@
         <button class="tecla tecla_tokito"><img src="imagens/tokito.jpeg" alt="tokito"></button>
     </section>
 
-    <audio src="Voicy_Rengoku Umai (1).mp3" id="som_tecla_omai"></audio>
-    <audio src="sons/tanjiiirooo.mp3" id="som_tecla_tanjiro"></audio>
-    <audio src="sons/monjiro_m8oa8137.mp3" id="som_tecla_inosuke"></audio>
-    <audio src="sons/Voicy_zenitsu saying _nezuko-chaaaan_.mp3" id="som_tecla_zenitsu"></audio>
-    <audio src="sons/Voicy_Nezuko Hmmm SFX.mp3" id="som_tecla_nezuko"></audio>
-    <audio src="sons/Voicy_shinobu saying _moshi moshi daijobu desu ka_.mp3" id="som_tecla_shinobu"></audio>
-    <audio src="sons/tomiokakira_teaeea02.mp3" id="som_tecla_tomioka"></audio>
-    <audio src="sons/sayonarak_sfkbfa53.mp3" id="som_tecla_kanao"></audio>
-    <audio src="sons/muichirotok_m9k19166.mp3" id="som_tecla_tokito"></audio>
+    <audio src="imagens/Voicy_Rengoku Umai (1).mp3" id="som_tecla_omai"></audio>
+    <audio src="imagens/tanjiiirooo.mp3" id="som_tecla_tanjiro"></audio>
+    <audio src="imagens/monjiro_m8oa8137.mp3" id="som_tecla_inosuke"></audio>
+    <audio src="imagens/Voicy_zenitsu saying _nezuko-chaaaan_.mp3" id="som_tecla_zenitsu"></audio>
+    <audio src="imagens/Voicy_Nezuko Hmmm SFX.mp3" id="som_tecla_nezuko"></audio>
+    <audio src="imagens/Voicy_shinobu saying _moshi moshi daijobu desu ka_.mp3" id="som_tecla_shinobu"></audio>
+    <audio src="imagens/tomiokakira_teaeea02.mp3" id="som_tecla_tomioka"></audio>
+    <audio src="imagens/sayonarak_sfkbfa53.mp3" id="som_tecla_kanao"></audio>
+    <audio src="imagens/muichirotok_m9k19166.mp3" id="som_tecla_tokito"></audio>
 
-    <script src="javascript.js">
+    <script src="main.js">
     </script>
     
 </body>
